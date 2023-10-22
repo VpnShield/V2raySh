@@ -8,7 +8,7 @@
 "ColorTitle": "#ffffff",
 "ColorBtn": "#ffffff",
 "Cancellable": "true",
-"TopStr": "😐",
+"TopStr": "¡",
 "MessageID": "00009887",
 "ShowTime": "2998474",
 "Button": " عضویت ",
