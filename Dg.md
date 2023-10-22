@@ -9,7 +9,7 @@
 "ColorBtn": "#ffffff",
 "Cancellable": "true",
 "TopStr": "¡",
-"MessageID": "00009887",
+"MessageID": "1118383",
 "ShowTime": "2998474",
 "Button": " عضویت ",
 "Show": "on"
