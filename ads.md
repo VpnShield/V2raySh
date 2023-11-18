@@ -1,0 +1,1 @@
+{"ads":[{"visible":1,"text1":"text1","text2":"text2","textcolor":"#FFFFFF","image":"https://etc.usf.edu/techease/wp-content/uploads/2017/12/daylily-flower-and-buds-20.jpg","text_btn":"textbtn","action_btn":"https://t.me/Vpn_Shield"}]}
